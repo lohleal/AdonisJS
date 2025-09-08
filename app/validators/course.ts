@@ -19,3 +19,4 @@ export const updateCourseValidator = vine.compile(
     duration: vine.number().positive().withoutDecimals().optional(),
   })
 )
+
