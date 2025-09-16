@@ -1,5 +1,5 @@
 {
-  "name": "AdonisBD",
+  "name": "AdonisAut",
   "version": "0.0.0",
   "private": true,
   "type": "module",
@@ -47,7 +47,7 @@
     "hot-hook": "^0.4.0",
     "pino-pretty": "^13.0.0",
     "prettier": "^3.5.3",
-    "ts-node-maintained": "^10.9.6",
+    "ts-node-maintained": "^10.9.5",
     "typescript": "~5.8"
   },
   "dependencies": {
